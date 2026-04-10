@@ -1,0 +1,9 @@
+# Port 1: Healthy
+1.3.6.1.2.1.2.2.1.14.1|2|0
+# Port 2: Degrading (Predictive Maintenance candidate)
+1.3.6.1.2.1.2.2.1.14.2|2|8
+# Port 3: Critical
+1.3.6.1.2.1.2.2.1.14.3|2|45
+# Add ports 4-10 with varying values...
+1.3.6.1.2.1.2.2.1.14.4|2|0
+1.3.6.1.2.1.2.2.1.14.5|2|2
